@@ -39,19 +39,36 @@ iii. PROJECT MANAGER - the project manager is responsible for overseeing the pla
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+Integrated Development Environments IDEs importance can never be over emphasized as they provide comprehensive tools required to write, debug and test code examples are visual studio and eclipse
+Version Control Systems VCS are important software tools used to track changes to source code and coordinate work among team members examples are Gir and subversion.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+challenges software engineers face include:
+i. changing requirements and 
+ii. tight deadlines 
+these above mentioned challenges could be tackled by;
+i. improving communication 
+ii. adopting agile methodology 
+iii. prioritizing tasks and
+iv. regular reassessment of project goals and timelines.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+i. UNIT TESTING - this is the testing carried out by an individual on only one module or component of a software
+ii. INTEGRATION TESTING - involves interactions between different components of the software
+iii. SYSTEM TESTING - system testing tests th entire system as a whole, all modules and components working together
+iv. ACCEPTANCE TESTING - here the software is tested against user requirements to ensure it meets user needs
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+prompt engineering is is the way of prompting AI or creating specific questions in order to get the best response form AI
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+am example of a vague prompt is asking AI "what to do to become a programmer" when one wants to be a web developer. 
+an improved prompt will be "what are the basics of web development", at least for a start.
+the improved prompt is more efficient because it saves time by cutting down redundant answers that the AI will give which will not even help the persona asking reach his goal of learning web development
